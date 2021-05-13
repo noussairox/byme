@@ -1,0 +1,24 @@
+.container div {
+  border: 1px solid orange;
+  width: 100px;
+  height: 160px;
+  text-align: center;
+  margin: 40px;
+}
+.container {
+  display: flex;
+  vertical-align: middle;
+  flex-wrap: wrap;
+}
+.active {
+  background-color: cadetblue;
+}
+body {
+  background-color: darkolivegreen;
+}
+h1 {
+  color: burlywood;
+  font-size: 40px;
+  font-style: oblique;
+  text-shadow: 2px 2px black;
+}

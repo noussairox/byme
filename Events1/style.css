@@ -1,0 +1,17 @@
+div {
+  border: 1px solid black;
+}
+
+#root {
+  padding: 20px;
+  width: 400px;
+}
+#myDiv {
+  height: 200px;
+  text-align: center;
+  position: relative;
+  font-size: xx-large;
+}
+.normal {
+  background-color: burlywood;
+}
