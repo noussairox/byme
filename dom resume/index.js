@@ -7,3 +7,8 @@ div.innerText="hello 3alam"
 body.append(div)
 //MODIFY ELEMENT HTML
 div.innerHTML = "<strong>3alam</strong>"
+
+const a = document.querySelector('p')
+a.innerHTML = "<strong> j-querry </strong>"
+
+a.className ="jda"
